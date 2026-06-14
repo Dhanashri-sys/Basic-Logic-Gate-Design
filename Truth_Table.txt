@@ -1,0 +1,42 @@
+Basic Logic Gate Design
+Intern ID: CTTS043
+
+AND Gate
+A B | Y
+0 0 | 0
+0 1 | 0
+1 0 | 0
+1 1 | 1
+
+OR Gate
+A B | Y
+0 0 | 0
+0 1 | 1
+1 0 | 1
+1 1 | 1
+
+NOT Gate
+A | Y
+0 | 1
+1 | 0
+
+NAND Gate
+A B | Y
+0 0 | 1
+0 1 | 1
+1 0 | 1
+1 1 | 0
+
+NOR Gate
+A B | Y
+0 0 | 1
+0 1 | 0
+1 0 | 0
+1 1 | 0
+
+XOR Gate
+A B | Y
+0 0 | 0
+0 1 | 1
+1 0 | 1
+1 1 | 0
